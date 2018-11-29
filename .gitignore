@@ -1,1 +1,15 @@
-.idea
+# Intellij
+.idea/
+*.iml
+*.iws
+out
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+#file Logger
+app.log
